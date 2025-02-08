@@ -3,8 +3,8 @@ This project is a part of Orange/digital hub big data analytics training. This p
 
 ## Table of Contents
 - [Dataset](#dataset)
-- [Tasks and Objectives](#tasks-and-objectives)
-- [Exploratory Data Analysis (EDA) & Visualization](#exploratory-data-analysis-(EDA)--visualization)
+- [Task and Objectives](#task-and-objectives)
+- [Exploratory Data Analysis (EDA) & Visualization](#exploratory-data-analysis-eda--visualization)
 - [Model Training](#model-training)
 - [Results and Evaluation](#results-and-evaluation)
 - [Installation and Usage](#installation-and-usage)
